@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>1.0</versionNumber>
-  <url>https://raw.githubusercontent.com/box1x1/game.github.io/master/app.air</url>
+  <versionNumber>1.1</versionNumber>
+  <url>https://raw.githubusercontent.com/StevePink/Game.github.io/master/app.air</url>
   <description>
-    <![CDATA[Version 2: 
+    <![CDATA[Version 1.1: 
 	* Testing the update feature.]]>
   </description>
 </update>
